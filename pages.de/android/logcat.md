@@ -9,7 +9,7 @@
 
 - Schreibe alle System-Logs in eine Datei:
 
-`logcat -f {{pfad/zu/datei}}`
+`logcat -f {{pfad/zur/datei}}`
 
 - Gib Zeilen aus, die einem regulären Ausdruck entsprechen:
 
